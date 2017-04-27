@@ -1,4 +1,4 @@
-# Literasee Template: Simple web-page
+# Standard Error of Measurement
 
 This [GitHub](https://www.github.com) repository (called a *repo*) contains a simple single-page markdown template (`index.md`) that will be
 used to create a single web-page assessment literacy module.
@@ -40,8 +40,6 @@ Creating your own assessment literacy module using this format is easy.
 **Literasee** is crafted with :heart: by:
 
 * [Damian Betebenner](https://github.com/dbetebenner)
-* [Ben Clinkinbeard](https://github.com/bclinkinbeard)
 * [Charlie DePascale](https://github.com/cdepascale)
-* [Adam VanIwaarden](https://github.com/adamvi)
 
 We love feedback and are happy to answer questions.
