@@ -1,5 +1,4 @@
 # Standard Error of Measurement
-
 This [GitHub](https://www.github.com) repository (called a *repo*) contains a simple single-page markdown template (`index.md`) that will be
 used to create a single web-page assessment literacy module.
 
